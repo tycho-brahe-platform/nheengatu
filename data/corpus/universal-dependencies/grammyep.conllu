@@ -6,6 +6,7 @@
 3	uikú	ikú	AUX	V	Number=Sing|Person=3|VerbForm=Fin	2	aux	_	SpaceAfter=No|TokenRange=11:15
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=15:16
 
+
 # text = Kurumĩ rendawa pe tawa ruakí.
 # text_eng = The community of the boy is near your city.
 # text_por = A comunidade do menino é perto da cidade de vocês.
@@ -16,6 +17,7 @@
 5	ruakí	ruakí	ADP	ADP	Rel=Cont	4	case	_	SpaceAfter=No|TokenRange=23:28
 6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=28:29
 
+
 # text = Yandé yaikú ne ruakí.
 # text_eng = We are near you.
 # text_por = Nós estamos perto de você.
@@ -25,12 +27,14 @@
 4	ruakí	ruakí	ADP	ADP	Rel=Cont	3	case	_	SpaceAfter=No|TokenRange=15:20
 5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=20:21
 
+
 # text = Suka sakú.
 # text_eng = Her house is hot.
 # text_por = A casa dela é quente.
 1	Suka	uka	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=Ncont	2	nsubj	_	TokenRange=0:4
 2	sakú	rakú	VERB	A2	Number=Sing|Person=3|Rel=Ncont|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=5:9
 3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=9:10
+
 
 # text = Kunhã ruka puranga.
 # text_eng = The house of the woman is beautiful.
@@ -40,12 +44,14 @@
 3	puranga	puranga	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=11:18
 4	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=18:19
 
+
 # text = Kunhã puranga.
 # text_eng = The woman is beautiful.
 # text_por = A mulher é bonita.
 1	Kunhã	kunhã	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
 2	puranga	puranga	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=6:13
 3	.	.	PUNCT	PUNCT	_	0	punct	_	SpaceAfter=No|TokenRange=13:14
+
 
 # text = Kunhã puranga uikú.
 # text_eng = The woman is beautiful.
@@ -54,6 +60,7 @@
 2	puranga	puranga	ADJ	A	_	0	root	_	TokenRange=6:13
 3	uikú	ikú	AUX	V	Person=3|VerbForm=Fin	2	cop	_	SpaceAfter=No|TokenRange=14:18
 4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=18:19
+
 
 # text = Nhaã apigawa igara uikú se raíra ruka ruakí.
 # text_eng = That canoe of the man is near the house of my son.
@@ -67,6 +74,7 @@
 7	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=33:37
 8	ruakí	ruakí	ADP	ADP	Rel=Cont	7	case	_	SpaceAfter=No|TokenRange=38:43
 9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=43:44
+
 
 # text = Apigawa rendawa kurumĩ tawa ruakí.
 # text_eng = The community of the man is near the city of the boy.
