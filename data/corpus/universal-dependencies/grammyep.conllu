@@ -85,3 +85,14 @@
 4	tawa	tawa	NOUN	N	Number=Sing	0	root	_	TokenRange=23:27
 5	ruakí	ruakí	ADP	ADP	Rel=Cont	4	case	_	SpaceAfter=No|TokenRange=28:33
 6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=33:34
+
+
+# text = Apigawa rendawa kurumĩ tawa ruakí.
+# text_eng = The community of the man is near the city of the boy.
+# text_por = A comunidade do homem é perto da cidade do menino.
+1	Apigawa	apigawa	NOUN	N	Number=Sing	2	nmod	_	TokenRange=0:7
+2	rendawa	tendawa	NOUN	N	Number=Sing|Rel=Cont	4	nsubj	_	TokenRange=8:15
+3	kurumĩ	kurumĩ	NOUN	N	Number=Sing	4	nmod	_	TokenRange=16:22
+4	tawa	tawa	NOUN	N	Number=Sing	0	root	_	TokenRange=23:27
+5	ruakí	ruakí	ADP	ADP	Rel=Cont	4	case	_	SpaceAfter=No|TokenRange=28:33
+6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=33:34
