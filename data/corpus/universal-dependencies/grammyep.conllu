@@ -1,10 +1,10 @@
-# text = Kambí sakú uikú ?
+# text = Kambí sakú uikú ??
 # text_eng = The milk is hot.
 # text_por = O leite está quente.
 1	Kambí	kambi	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
 2	sakú	rakú	VERB	A2	Number=Sing|Person=3|Rel=Ncont|VerbForm=Fin	0	root	_	TokenRange=5:9
 3	uikú	ikú	AUX	V	Number=Sing|Person=3|VerbForm=Fin	2	aux	_	SpaceAfter=No|TokenRange=9:13
-4	?	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=13:14
+4	??	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=13:15
 
 
 # text = Kurumĩ rendawa pe tawa ruakí.
