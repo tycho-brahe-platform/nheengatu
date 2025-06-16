@@ -1,10 +1,10 @@
-# text = Kambí sakú uikú.
+# text = Kambí sakú uikú ?
 # text_eng = The milk is hot.
 # text_por = O leite está quente.
 1	Kambí	kambi	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:5
-2	sakú	rakú	VERB	A2	Number=Sing|Person=3|Rel=Ncont|VerbForm=Fin	0	root	_	TokenRange=6:10
-3	uikú	ikú	AUX	V	Number=Sing|Person=3|VerbForm=Fin	2	aux	_	SpaceAfter=No|TokenRange=11:15
-4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=15:16
+2	sakú	rakú	VERB	A2	Number=Sing|Person=3|Rel=Ncont|VerbForm=Fin	0	root	_	TokenRange=5:9
+3	uikú	ikú	AUX	V	Number=Sing|Person=3|VerbForm=Fin	2	aux	_	SpaceAfter=No|TokenRange=9:13
+4	?	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=13:14
 
 
 # text = Kurumĩ rendawa pe tawa ruakí.
@@ -74,17 +74,6 @@
 7	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=33:37
 8	ruakí	ruakí	ADP	ADP	Rel=Cont	7	case	_	SpaceAfter=No|TokenRange=38:43
 9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=43:44
-
-
-# text = Apigawa rendawa kurumĩ tawa ruakí.
-# text_eng = The community of the man is near the city of the boy.
-# text_por = A comunidade do homem é perto da cidade do menino.
-1	Apigawa	apigawa	NOUN	N	Number=Sing	2	nmod	_	TokenRange=0:7
-2	rendawa	tendawa	NOUN	N	Number=Sing|Rel=Cont	4	nsubj	_	TokenRange=8:15
-3	kurumĩ	kurumĩ	NOUN	N	Number=Sing	4	nmod	_	TokenRange=16:22
-4	tawa	tawa	NOUN	N	Number=Sing	0	root	_	TokenRange=23:27
-5	ruakí	ruakí	ADP	ADP	Rel=Cont	4	case	_	SpaceAfter=No|TokenRange=28:33
-6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=33:34
 
 
 # text = Apigawa rendawa kurumĩ tawa ruakí.
